@@ -15,16 +15,25 @@
 
 ---
 
-### 🛠️ 𝙎𝙠𝙞𝙡𝙡𝙨 𝙖𝙣𝙙 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨:
-#### 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨:
-- **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙:** `𝙃𝙏𝙈𝙇`, `𝘾𝙎𝙎`, `𝙅𝙖𝙫𝙖𝙎𝙘𝙧𝙞𝙥𝙩`, `𝙏𝙮𝙥𝙚𝙎𝙘𝙧𝙞𝙥𝙩`
-- **𝘽𝙖𝙘𝙠𝙚𝙣𝙙:** `𝙂𝙤`
-- **𝘽𝙡𝙤𝙘𝙠𝙘𝙝𝙖𝙞𝙣:** `𝙎𝙤𝙡𝙞𝙙𝙞𝙩𝙮`
-- **𝙈𝙤𝙗𝙞𝙡𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩:** `𝙎𝙬𝙞𝙛𝙩𝙐𝙄`
-#### 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨 & 𝙏𝙤𝙤𝙡𝙨:
-- **𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨:** `𝙉𝙚𝙭𝙩.𝙟𝙨`, `𝘽𝙤𝙤𝙩𝙨𝙩𝙧𝙖𝙥`
-- **𝘽𝙖𝙘𝙠𝙚𝙣𝙙 𝙁𝙧𝙖𝙢𝙚𝙬𝙤𝙧𝙠𝙨:** `𝙂𝙤`
-- **𝙈𝙤𝙗𝙞𝙡𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙏𝙤𝙤𝙡𝙨:** `𝙓𝙘𝙤𝙙𝙚`, `𝙎𝙬𝙞𝙛𝙩𝙐𝙄`
+# 🛠️ Skills and Technologies:
+
+### Languages:
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+- ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
+- ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat)
+
+### Tools & Frameworks:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" height="40" alt="Xcode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="SwiftUI" />
+</p>
 
 ---
 
