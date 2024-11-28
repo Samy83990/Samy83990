@@ -44,9 +44,6 @@
 ### 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samy83990&layout=compact&theme=radical)
 
-### 🏆 Trophies:
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Samy83990&theme=radical)
-
 ### 📫 𝙃𝙤𝙬 𝙩𝙤 𝙧𝙚𝙖𝙘𝙝 𝙢𝙚:
 - **𝙀𝙢𝙖𝙞𝙡: samy-83990@hotmail.fr
 - **𝙇𝙞𝙣𝙠𝙚𝙙𝙄𝙣: www.linkedin.com/in/samy-chakrouni
