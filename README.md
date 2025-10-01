@@ -1,4 +1,4 @@
-![Banner](https://ibb.co/cKCjbFBL)
+![Banner](https://i.postimg.cc/3N6ywmqM/temp-Image1e-RFl-L.avif)
 
 # 👋 Hello! Welcome to my GitHub profile!  
 I'm **Samy**, a **Systems & Cloud Architect | DevOps Engineer**.  
