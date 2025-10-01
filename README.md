@@ -52,7 +52,7 @@ I design and deploy **scalable, secure, and automated infrastructures**, with st
 
 ### 📫 How to reach me
 - 📧 **Email**: samy-83990@hotmail.fr  
-- 💼 [Malt profile](https://www.malt.fr/profile/tonlien)  
+- 💼 [Malt profile](https://www.malt.fr/profile/samychakrouni) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/samy-chakrouni)  
 
 ---
