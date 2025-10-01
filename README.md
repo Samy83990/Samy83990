@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/1ddm8Fv/samy-chakrouni.png)
 
 # 👋 Hello! Welcome to my GitHub profile!  
-I'm **Samy**, a **Systems & Cloud Architect | DevOps Engineer | C++/Go Developer**.  
+I'm **Samy**, a **Systems & Cloud Architect | DevOps Engineer**.  
 I design and deploy **scalable, secure, and automated infrastructures**, with strong expertise in **Cloud, DevOps, and performance engineering**. 🚀  
 
 ---
