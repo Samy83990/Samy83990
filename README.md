@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/1ddm8Fv/samy-chakrouni.png)
+![Banner](https://ibb.co/cKCjbFBL)
 
 # 👋 Hello! Welcome to my GitHub profile!  
 I'm **Samy**, a **Systems & Cloud Architect | DevOps Engineer**.  
