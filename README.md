@@ -1,7 +1,7 @@
 ![Banner](https://i.postimg.cc/3N6ywmqM/temp-Image1e-RFl-L.avif)
 
 # 👋 Hello! Welcome to my GitHub profile!  
-I'm **Samy**, a **Systems & Cloud Architect | DevOps Engineer**.  
+I'm **Samy**, a **Cloud Architect | DevOps Engineer**.  
 I design and deploy **scalable, secure, and automated infrastructures**, with strong expertise in **Cloud, DevOps, and performance engineering**. 🚀  
 
 ---
